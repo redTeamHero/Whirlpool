@@ -1,3 +1,6 @@
+![whirlpool](https://github.com/user-attachments/assets/6e9ecac3-6b9d-496a-b793-b8c8e6885849)
+
+
 This code is a proxy scraper that asynchronously gathers proxy IP addresses from multiple online sources. It organizes the proxies by type (HTTP, HTTPS, SOCKS4, SOCKS5), sanitizes the data to ensure it's in a usable format, and saves the proxy IP addresses and ports into specified output files. 
 
 Key features include:
